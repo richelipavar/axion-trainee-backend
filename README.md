@@ -1,4 +1,4 @@
-# Teste Técnico Axion/Dex - Backend (Strapi API)
+# Teste Técnico Axion - Backend (Strapi API)
 
 Este é o projeto backend (API Strapi) fornecido e configurado para o teste técnico de trainee da Axion Company.
 
